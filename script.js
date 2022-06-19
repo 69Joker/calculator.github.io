@@ -118,6 +118,6 @@ allClearButton.addEventListener('click', () => {
 })
 deleteButton.addEventListener('click', () => {
     calculator.delete();
-    // calculator.updateDisplay();
+    calculator.updateDisplay();
 
 })
